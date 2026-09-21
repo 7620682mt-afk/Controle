@@ -1,0 +1,1 @@
+ALTER TABLE "orders" ALTER COLUMN "is_ai_suggested" SET DATA TYPE boolean;

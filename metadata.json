@@ -1,0 +1,8 @@
+{
+  "name": "StockFlow CRM & Inventory",
+  "description": "A high-precision operational dashboard for inventory control, warehouse fulfillment, and supply chain logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
